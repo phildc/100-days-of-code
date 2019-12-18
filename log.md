@@ -2,7 +2,7 @@
 
 ### Day 0: December 17, 2019
 
-**Today's Progress**: Completed the Workshop Onboarding section. This included installing Chrome (Canary) and VSCode, aloing with the "Open in Default Browser" extension. Also completed the Pre-Assessment Quiz with a score of 72%. Read the Overview of Chapter One.
+**Today's Progress**: Completed the Workshop Onboarding section. This included installing Chrome and VSCode, along with the "Open in Default Browser" extension. Also completed the Pre-Assessment Quiz with a score of 72%. Read the Overview of Chapter One.
 
 **Thoughts:** I've recently started coding and after exploring many different resources and ways of learning, I've chosen to work through The HTML and CSS Workshop from Packt.
 
