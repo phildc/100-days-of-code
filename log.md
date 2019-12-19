@@ -10,7 +10,7 @@
 
 ### Day 1: December 18, 2019
 
-**Today's Progress**: Started reading Chapter 1 - Introduction to HTML and CSS. Finished the Overview and read about two-thirds of the HTML section. Used VSCode to experiment with all the code snippets. Uploaded these snippets to GitHub.
+**Today's Progress**: Started reading Chapter 1 - Introduction to HTML and CSS. Finished the Overview and Introduction. Read about two-thirds of the HTML section. Used VSCode to experiment with all the code snippets. Uploaded these snippets to GitHub.
 
 **Thoughts:** This was a really interesting introduction to HTML. I love the new content type categories in HTML5. So much clearer and useful than the block-level/inline distinction in previous versions of HTML.
 
