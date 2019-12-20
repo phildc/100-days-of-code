@@ -15,3 +15,15 @@
 **Thoughts:** This was a really interesting introduction to HTML. I love the new content type categories in HTML5. So much clearer and useful than the block-level/inline distinction in previous versions of HTML.
 
 **Link to work:** [Files 01-01 to 01-11](https://github.com/phildc/html-css-workshop)
+
+
+### Day 2: December 19, 2019
+
+**Today's Progress**: Continued reading Chapter 1 - Introduction to HTML and CSS. Finished the HTML section and read Structuring an HTML Document. Completed the first two exercises and watched the exercise screencasts. Carried on using VSCode to experiment with all the code snippets. Uploaded those snippets again to GitHub, along with the two exercises. Set up a website using GitHub Pages. Created a branch of my main code repository so I could publish my completed exercises. Learnt how to create a pull request and successfully merged my changes.
+
+**Thoughts:** A very productive day! Learnt a lot about the different metadata you can include in the head of an HTML document. Was good to work through my first exercises instead of just playing with small code snippets. One code snippet was a small piece of JavaScript which I then successfully embedded inside an HTML document without any difficulty. Yay! And after a bit of trial-and-error I got my GitHub Pages site up and running. Took a little longer to work out how to publish the exercises from a different repository but got there in the end. Awesome feeling when everything was finally published and out there on the web! Double that feeling when everything looked great on my phone too!
+
+**Link(s) to work**
+1. [Files 01-12 to 01-20](https://github.com/phildc/html-css-workshop)
+2. [Exercises 01-01 and 01-02](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
