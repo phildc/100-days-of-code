@@ -38,4 +38,15 @@
 1. [Files 01-21 to 01-24](https://github.com/phildc/html-css-workshop)
 2. [Exercises 01-03 and 01-04](https://github.com/phildc/html-css-workshop)
 3. [Activity 01-01](https://github.com/phildc/html-css-workshop)
+4. [My GitHub Pages site](https://phildc.github.io/)
+
+### Day 4: December 21, 2019
+
+**Today's Progress**: Continued Chapter 1 - Introduction to HTML and CSS. Read the section on CSS. Completed Exercise 1.05 and 1.06 about Adding Styles, and watched their respective screencasts. Uploaded all code snippets to GitHub and updated my GitHib Pages site.
+
+**Thoughts:** Not a lot done today as I have an early start tomorrow morning and couldn't do my usual late-night coding session. Still it was nice to get started with some CSS and looking forward to playing with the CSSOM tomorrow.
+
+**Link(s) to work**
+1. [Files 01-25 to 01-30](https://github.com/phildc/html-css-workshop)
+2. [Exercises 01-05 and 01-06](https://github.com/phildc/html-css-workshop)
 3. [My GitHub Pages site](https://phildc.github.io/)
