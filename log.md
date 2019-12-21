@@ -27,3 +27,15 @@
 1. [Files 01-12 to 01-20](https://github.com/phildc/html-css-workshop)
 2. [Exercises 01-01 and 01-02](https://github.com/phildc/html-css-workshop)
 3. [My GitHub Pages site](https://phildc.github.io/)
+
+### Day 3: December 20, 2019
+
+**Today's Progress**: Read more from Chapter 1 - Introduction to HTML and CSS. Read the sections on "Mistakes in HTML" and "Validating HTML". Completed two more exercises and watched the screencasts for them. Continued to play around with code snippets in VSCode. Finished my first activity from the book. All new code uploaded to GitHub. GitHub Pages site updated.
+
+**Thoughts:** Steady, if not spectacular, progress today. Spending more time each day looking at the HTML Living Standard. And if the standard isn't clear or doesn't answer my question, I've been using the MDN, W3Schools and StackOverflow for clarification. For example, learning to put my meta charset before the title element. The first activity was very straightforward and I correctly completed it without having to refer to the given solution. The later activities will be a good test to see if everything else is sinking in as much. Looking forward to starting the CSS section tomorrow!
+
+**Link(s) to work**
+1. [Files 01-21 to 01-24](https://github.com/phildc/html-css-workshop)
+2. [Exercises 01-03 and 01-04](https://github.com/phildc/html-css-workshop)
+3. [Activity 01-01](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
