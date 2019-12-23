@@ -53,7 +53,7 @@
 
 ### Day 5: December 22, 2019
 
-**Today's Progress**: Continued Chapter 1 - Introduction to HTML and CSS. Read the section on CSSOM. Started the CSS Selectors section.
+**Today's Progress**: Continued reading Chapter 1 - Introduction to HTML and CSS. Read the section on CSSOM. Started the CSS Selectors section.
 
 **Thoughts:** Was on the road most of the day so didn't manage to get a lot complete. Also came across an error in the code supplied by the book which took a little while to debug. However, this was a really fruitful exercise as it made me learn how to use the Dev Tools inside Chrome. Did spend a quite a bit of time with the CSSOM code snippets making sure I understood how it all worked. Also had a play around with the first CSS Selectors code snippet too.
 
