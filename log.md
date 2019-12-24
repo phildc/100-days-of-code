@@ -65,4 +65,6 @@
 
 **Thoughts:** Slow day today as I was catching up with some sleep after travelling most of the previous day. Felt good to get some CSS code snippets up-and-running as small demo files. Also updated the CSS I'm using for my GitHub Pages site – now using the GitHub Markdown CSS I found on GitHub. I'll tweak that later; just wanted something a bit nicer-looking while I get my head around CSS. Hoping to make better progress over the next few days, but each day is one step closer to my goal – even if it is just a small step.
 
-**Link to work** [Files 01-33 to 01-36](https://github.com/phildc/html-css-workshop)
+**Link(s) to work**
+1. [Files 01-33 to 01-36](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
