@@ -58,3 +58,11 @@
 **Thoughts:** Was on the road most of the day so didn't manage to get a lot completed today. Also came across an error in the code supplied by the book which took a little while to debug. However, this was a really fruitful exercise as it gave me the opportunity to start using the Dev Tools inside Chrome. Did spend a quite a bit of time with the CSSOM code snippets making sure I understood how the code snippets worked. Also had a play around with the first CSS Selectors code snippet too.
 
 **Link to work** [Files 01-31 to 01-32](https://github.com/phildc/html-css-workshop)
+
+### Day 6: December 23, 2019
+
+**Today's Progress**: More reading Chapter 1 - Introduction to HTML and CSS. Finished reading the first part of the CSS Selectors section. Read the section on Element, ID, and Class.
+
+**Thoughts:** Slow day today as I was catching up with some sleep after travelling most of the previous day. Felt good to get some CSS code snippets up-and-running as small demo files. Hoping to make better progress over the next few days, but each day is one step closer to my goal – even if it is just a small step.
+
+**Link to work** [Files 01-33 to 01-36](https://github.com/phildc/html-css-workshop)
