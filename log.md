@@ -57,4 +57,4 @@
 
 **Thoughts:** Was on the road most of the day so didn't manage to get a lot completed today. Also came across an error in the code supplied by the book which took a little while to debug. However, this was a really fruitful exercise as it gave me the opportunity to start using the Dev Tools inside Chrome. Did spend a quite a bit of time with the CSSOM code snippets making sure I understood how the code snippets worked. Also had a play around with the first CSS Selectors code snippet too.
 
-**Link to work** [Files 01-31 to 01-31](https://github.com/phildc/html-css-workshop)
+**Link to work** [Files 01-31 to 01-32](https://github.com/phildc/html-css-workshop)
