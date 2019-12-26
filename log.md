@@ -14,7 +14,7 @@
 
 **Thoughts:** This was a really interesting introduction to HTML. I love the new content type categories in HTML5. So much clearer and useful than the block-level/inline distinction in previous versions of HTML.
 
-**Link to work:** [Files 01-01 to 01-11](https://github.com/phildc/html-css-workshop)
+**Link to work:** [Files 01-01 to 01-04](https://github.com/phildc/html-css-workshop)
 
 
 ### Day 2: December 19, 2019
