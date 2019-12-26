@@ -57,7 +57,7 @@
 
 **Thoughts:** Was on the road most of the day so didn't manage to get a lot completed today. Also came across an error in the code supplied by the book which took a little while to debug. However, this was a really fruitful exercise as it gave me the opportunity to start using the Dev Tools inside Chrome. Did spend a quite a bit of time with the CSSOM code snippets making sure I understood how the code snippets worked. Also had a play around with the first CSS Selectors code snippet too.
 
-**Link to work** [Files 01-31 to 01-32](https://github.com/phildc/html-css-workshop)
+**Link to work** [Files 01-21 to 01-23](https://github.com/phildc/html-css-workshop)
 
 ### Day 6: December 23, 2019
 
@@ -66,7 +66,7 @@
 **Thoughts:** Slow day today as I was catching up with some sleep after travelling most of the previous day. Felt good to get some CSS code snippets up-and-running as small demo files. Also updated the CSS I'm using for my GitHub Pages site – now using the GitHub Markdown CSS I found on GitHub. I'll tweak that later; just wanted something a bit nicer-looking while I get my head around CSS. Hoping to make better progress over the next few days, but each day is one step closer to my goal – even if it is just a small step.
 
 **Link(s) to work**
-1. [Files 01-33 to 01-36](https://github.com/phildc/html-css-workshop)
+1. [File 01-24](https://github.com/phildc/html-css-workshop)
 2. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 7: December 24, 2019
@@ -75,4 +75,4 @@
 
 **Thoughts:** Getting really bogged down with all the different CSS selectors. The book is very good at describing all the different types of selectors, but doesn't include an individual example for each of the different types. Which is fair enough, otherwise the chapter would be huge. However, reading about the selectors isn't the same as actually playing with them, so I've been trying to come up with my own examples where I can put each different selector to use. This is generally what I've been doing with each bit of new code that's been introduced in the book so far, unless there's a specific example that's already been provided. Unfortunately, it's now taking a long time to cover just one paragraph, as there's quite a lot of new code in this section. My solution has been to turn to W3Schools.com for some ready-made examples, so I can see everything in action and have a play with them without spending too long on each section of the book. I'm currently updating my file organization on GitHub to take this into consideration. I'm also going to create a new W3Schools-specific repository to contain the examples that I've gone through.
 
-**Link to work** *Currently updating GitHub - should be completed by 12/25/19.*
+**Link to work** [Files 01-25 to 01-27](https://github.com/phildc/html-css-workshop)
