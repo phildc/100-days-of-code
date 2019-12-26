@@ -79,8 +79,10 @@
 
 ### Day 8: December 25, 2019
 
-**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors.
+**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors. Updated my GitHub Pages website
 
 **Thoughts:** Finished re-organising all my files on GitHub. Now have a new W3Schools repository to contain all the example code snippets that I've worked through to support my reading. This should allow me to work faster through the book but still make sure I fully-understand everything. 
 
-**Link to work** [Exercise 01-07](https://github.com/phildc/html-css-workshop)
+**Link(s) to work**
+1. [Exercise 01-07](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
