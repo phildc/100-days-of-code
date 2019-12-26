@@ -76,3 +76,11 @@
 **Thoughts:** Getting really bogged down with all the different CSS selectors. The book is very good at describing all the different types of selectors, but doesn't include an individual example for each of the different types. Which is fair enough, otherwise the chapter would be huge. However, reading about the selectors isn't the same as actually playing with them, so I've been trying to come up with my own examples where I can put each different selector to use. This is generally what I've been doing with each bit of new code that's been introduced in the book so far, unless there's a specific example that's already been provided. Unfortunately, it's now taking a long time to cover just one paragraph, as there's quite a lot of new code in this section. My solution has been to turn to W3Schools.com for some ready-made examples, so I can see everything in action and have a play with them without spending too long on each section of the book. I've updated my file organization on GitHub to take this into consideration. I've also created a new W3Schools-specific repository to contain the examples that I've gone through.
 
 **Link to work** [Files 01-25 to 01-27](https://github.com/phildc/html-css-workshop)
+
+### Day 8: December 25, 2019
+
+**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors.
+
+**Thoughts:** Finished re-organising all my files on GitHub. Now have a new W3Schools repository to contain all the example code snippets that I've worked through to support my reading. This should allow me to work faster through the book but still make sure I fully-understand everything. 
+
+**Link to work** [Exercise 01-07](https://github.com/phildc/html-css-workshop)
