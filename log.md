@@ -35,7 +35,7 @@
 **Thoughts:** Steady, if not spectacular, progress today. Spending more time each day looking at the HTML Living Standard. And if the standard isn't clear or doesn't answer my question, I've been using the MDN, W3Schools and StackOverflow for clarification. For example, learning to put my meta charset before the title element. The first activity was very straightforward and I correctly completed it without having to refer to the given solution. The later activities will be a good test to see if everything else is sinking in as much. Looking forward to starting the CSS section tomorrow!
 
 **Link(s) to work**
-1. [Files 01-21 to 01-24](https://github.com/phildc/html-css-workshop)
+1. [Files 01-14 to 01-16](https://github.com/phildc/html-css-workshop)
 2. [Exercises 01-03 and 01-04](https://github.com/phildc/html-css-workshop)
 3. [Activity 01-01](https://github.com/phildc/html-css-workshop)
 4. [My GitHub Pages site](https://phildc.github.io/)
