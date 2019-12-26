@@ -47,7 +47,7 @@
 **Thoughts:** Not a lot done today as I have an early start tomorrow morning and couldn't do my usual late-night coding session. Still it was nice to get started with some CSS and looking forward to playing with the CSSOM tomorrow.
 
 **Link(s) to work**
-1. [Files 01-25 to 01-30](https://github.com/phildc/html-css-workshop)
+1. [Files 01-17 to 01-20](https://github.com/phildc/html-css-workshop)
 2. [Exercises 01-05 and 01-06](https://github.com/phildc/html-css-workshop)
 3. [My GitHub Pages site](https://phildc.github.io/)
 
