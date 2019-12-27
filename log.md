@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: December 26, 2019
+
+**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Read CSS Specificity and The Special Case of !important. Completed Activity 1.02 and watched Activity 1.02 screencast. Updated my GitHub Pages website
+
+**Thoughts:** Great explanation of specficity and !important. Think I've *finally* got those concepts. Completed the activity pretty smoothly – must remember that box-sizing declaration block! Caught up with some W3School examples too.
+
+**Link(s) to work**
+1. [Files 01-28 to 01-30](https://github.com/phildc/html-css-workshop)
+2. [Activity 01-02](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 8: December 25, 2019
 
 **Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors. Updated my GitHub Pages website
