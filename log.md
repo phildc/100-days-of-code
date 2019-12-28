@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: December 28, 2019
+
+**Today's Progress**: Started Chapter 2 - Structure and Layout. Read Overview, Introduction, and started Structural Elements section. Read about the header, footer and section tags.
+
+**Thoughts:** Again, travelling most of the day but managed to make a start on Chapter 2. Starts with a large section on Structural Elements and got about half-way through that section. Should be able to finish this section off tomorrow before having a go at the first exercise of this chapter.
+
+**Link to work:** [Files 02-01 to 02-03](https://github.com/phildc/html-css-workshop)
+
+
 ### Day 10: December 27, 2019
 
 **Today's Progress**: Finished Chapter 1 - Introduction to HTML and CSS. Read Dev Tools, How a Web Page Renders, and Chapter 1 Summary. Completed Quiz 01.
