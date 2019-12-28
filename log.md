@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: December 27, 2019
+
+**Today's Progress**: Finished Chapter 1 - Introduction to HTML and CSS. Read Dev Tools, How a Web Page Renders, and Chapter 1 Summary. Completed Quiz 01.
+
+**Thoughts:** Spent most of the day travelling, so was very tired at the end of the day, but still managed to get a couple of hours work under my belt. Definitely wanted to make sure I finished Chapter 1 today! The section on how a web page is rendered was fascinating. Can't believe how complex it is to render a simple web page – nevermind then throwing a whole load of JavaScript into the mix. Makes me have a new-found appreciation for browser manufacturers, and how as web developers we really need to understand what is going on under-the-hood. There is a great amount of respect we need to give to the whole process so we are not making our pages overly difficult to render. If we do not, then users will suffer from slow to render, slow to process pages, which is not in anyone's interests. Also, very happy with my Quiz result of 93%. Only got one answer wrong, and that's because I didn't read the question properly! Would have done a face-palm if I wasn't so exhausted.
+
+**Link to work** [The HTML and CSS Workshop](https://www.packtpub.com/web-development/the-html-and-css-workshop)
+
 ### Day 9: December 26, 2019
 
 **Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Read CSS Specificity and The Special Case of !important. Completed Activity 1.02 and watched Activity 1.02 screencast. Updated my GitHub Pages website
