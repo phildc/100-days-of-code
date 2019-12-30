@@ -1,17 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 12: December 29, 2019
+
+**Today's Progress:** Carried on with Chapter 2 - Structure and Layout. Completed the Structural Elements section. Read about the article, aside, nav and div tags. Completed Exercise 2.01 and watched the Exercise 2.01 screencast.
+
+**Thoughts:** Travelling again today, but completed my goal of finishing this section off and completing the first exercise of this chapter. All straightforward so far, but starting the section on layout tomorrow which I've struggled with in the past and this will be the first time I've looked at the new flexbox and grid layouts. I've got a few hours layover while travelling so should be able to dedicate some time to this.
+
+**Link to work:**
+
+1. [Files 02-04 to 02-07](https://github.com/phildc/html-css-workshop)
+2. [Exercise 02-01](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 11: December 28, 2019
 
-**Today's Progress**: Started Chapter 2 - Structure and Layout. Read Overview, Introduction, and started Structural Elements section. Read about the header, footer and section tags.
+**Today's Progress:** Started Chapter 2 - Structure and Layout. Read Overview, Introduction, and started Structural Elements section. Read about the header, footer and section tags.
 
 **Thoughts:** Again, travelling most of the day but managed to make a start on Chapter 2. Starts with a large section on Structural Elements and got about half-way through that section. Should be able to finish this section off tomorrow before having a go at the first exercise of this chapter.
 
 **Link to work:** [Files 02-01 to 02-03](https://github.com/phildc/html-css-workshop)
 
-
 ### Day 10: December 27, 2019
 
-**Today's Progress**: Finished Chapter 1 - Introduction to HTML and CSS. Read Dev Tools, How a Web Page Renders, and Chapter 1 Summary. Completed Quiz 01.
+**Today's Progress:** Finished Chapter 1 - Introduction to HTML and CSS. Read Dev Tools, How a Web Page Renders, and Chapter 1 Summary. Completed Quiz 01.
 
 **Thoughts:** Spent most of the day travelling, so was very tired at the end of the day, but still managed to get a couple of hours work under my belt. Definitely wanted to make sure I finished Chapter 1 today! The section on how a web page is rendered was fascinating. Can't believe how complex it is to render a simple web page – nevermind then throwing a whole load of JavaScript into the mix. Makes me have a new-found appreciation for browser manufacturers, and how as web developers we really need to understand what is going on under-the-hood. There is a great amount of respect we need to give to the whole process so we are not making our pages overly difficult to render. If we do not, then users will suffer from slow to render, slow to process pages, which is not in anyone's interests. Also, very happy with my Quiz result of 93%. Only got one answer wrong, and that's because I didn't read the question properly! Would have done a face-palm if I wasn't so exhausted.
 
@@ -19,18 +30,18 @@
 
 ### Day 9: December 26, 2019
 
-**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Read CSS Specificity and The Special Case of !important. Completed Activity 1.02 and watched Activity 1.02 screencast. Updated my GitHub Pages website
+**Today's Progress:** Chapter 1 - Introduction to HTML and CSS. Read CSS Specificity and The Special Case of !important. Completed Activity 1.02 and watched Activity 1.02 screencast. Updated my GitHub Pages website
 
 **Thoughts:** Great explanation of specficity and !important. Think I've *finally* got those concepts. Completed the activity pretty smoothly – must remember that box-sizing declaration block! Caught up with some W3School examples too.
 
 **Links to work:**
 1. [Files 01-28 to 01-30](https://github.com/phildc/html-css-workshop)
 2. [Activity 01-02](https://github.com/phildc/html-css-workshop)
-2. [My GitHub Pages site](https://phildc.github.io/)
+3. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 8: December 25, 2019
 
-**Today's Progress**: Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors. Updated my GitHub Pages website
+**Today's Progress:** Chapter 1 - Introduction to HTML and CSS. Completed Exercise 1.07 and watched Exercise 1.07 screencast. Completed section on CSS Selectors. Updated my GitHub Pages website
 
 **Thoughts:** Finished re-organising all my files on GitHub. Now have a new W3Schools repository to contain all the example code snippets that I've worked through to support my reading. This should allow me to work faster through the book but still make sure I fully-understand everything. 
 
@@ -40,7 +51,7 @@
 
 ### Day 7: December 24, 2019
 
-**Today's Progress**: Still on Chapter 1 - Introduction to HTML and CSS. More reading about CSS Selectors: Universal Selector, Attribute Selectors, Pseudo-classes, and Combining Selectors.
+**Today's Progress:** Still on Chapter 1 - Introduction to HTML and CSS. More reading about CSS Selectors: Universal Selector, Attribute Selectors, Pseudo-classes, and Combining Selectors.
 
 **Thoughts:** Getting really bogged down with all the different CSS selectors. The book is very good at describing all the different types of selectors, but doesn't include an individual example for each of the different types. Which is fair enough, otherwise the chapter would be huge. However, reading about the selectors isn't the same as actually playing with them, so I've been trying to come up with my own examples where I can put each different selector to use. This is generally what I've been doing with each bit of new code that's been introduced in the book so far, unless there's a specific example that's already been provided. Unfortunately, it's now taking a long time to cover just one paragraph, as there's quite a lot of new code in this section. My solution has been to turn to W3Schools.com for some ready-made examples, so I can see everything in action and have a play with them without spending too long on each section of the book. I've updated my file organization on GitHub to take this into consideration. I've also created a new W3Schools-specific repository to contain the examples that I've gone through.
 
@@ -48,7 +59,7 @@
 
 ### Day 6: December 23, 2019
 
-**Today's Progress**: More reading Chapter 1 - Introduction to HTML and CSS. Finished reading the first part of the CSS Selectors section. Read the section on Element, ID, and Class.
+**Today's Progress:** More reading Chapter 1 - Introduction to HTML and CSS. Finished reading the first part of the CSS Selectors section. Read the section on Element, ID, and Class.
 
 **Thoughts:** Slow day today as I was catching up with some sleep after travelling most of the previous day. Felt good to get some CSS code snippets up-and-running as small demo files. Also updated the CSS I'm using for my GitHub Pages site – now using the GitHub Markdown CSS I found on GitHub. I'll tweak that later; just wanted something a bit nicer-looking while I get my head around CSS. Hoping to make better progress over the next few days, but each day is one step closer to my goal – even if it is just a small step.
 
@@ -58,7 +69,7 @@
 
 ### Day 5: December 22, 2019
 
-**Today's Progress**: Continued reading Chapter 1 - Introduction to HTML and CSS. Read the section on CSSOM. Started the CSS Selectors section.
+**Today's Progress:** Continued reading Chapter 1 - Introduction to HTML and CSS. Read the section on CSSOM. Started the CSS Selectors section.
 
 **Thoughts:** Was on the road most of the day so didn't manage to get a lot completed today. Also came across an error in the code supplied by the book which took a little while to debug. However, this was a really fruitful exercise as it gave me the opportunity to start using the Dev Tools inside Chrome. Did spend a quite a bit of time with the CSSOM code snippets making sure I understood how the code snippets worked. Also had a play around with the first CSS Selectors code snippet too.
 
@@ -66,7 +77,7 @@
 
 ### Day 4: December 21, 2019
 
-**Today's Progress**: Continued Chapter 1 - Introduction to HTML and CSS. Read the section on CSS. Completed Exercise 1.05 and 1.06 about Adding Styles, and watched their respective screencasts. Uploaded all code snippets to GitHub and updated my GitHib Pages site.
+**Today's Progress:** Continued Chapter 1 - Introduction to HTML and CSS. Read the section on CSS. Completed Exercise 1.05 and 1.06 about Adding Styles, and watched their respective screencasts. Uploaded all code snippets to GitHub and updated my GitHib Pages site.
 
 **Thoughts:** Not a lot done today as I have an early start tomorrow morning and couldn't do my usual late-night coding session. Still it was nice to get started with some CSS and looking forward to playing with the CSSOM tomorrow.
 
@@ -77,7 +88,7 @@
 
 ### Day 3: December 20, 2019
 
-**Today's Progress**: Read more from Chapter 1 - Introduction to HTML and CSS. Read the sections on "Mistakes in HTML" and "Validating HTML". Completed two more exercises and watched the screencasts for them. Continued to play around with code snippets in VSCode. Finished my first activity from the book. All new code uploaded to GitHub. GitHub Pages site updated.
+**Today's Progress:** Read more from Chapter 1 - Introduction to HTML and CSS. Read the sections on "Mistakes in HTML" and "Validating HTML". Completed two more exercises and watched the screencasts for them. Continued to play around with code snippets in VSCode. Finished my first activity from the book. All new code uploaded to GitHub. GitHub Pages site updated.
 
 **Thoughts:** Steady, if not spectacular, progress today. Spending more time each day looking at the HTML Living Standard. And if the standard isn't clear or doesn't answer my question, I've been using the MDN, W3Schools and StackOverflow for clarification. For example, learning to put my meta charset before the title element. The first activity was very straightforward and I correctly completed it without having to refer to the given solution. The later activities will be a good test to see if everything else is sinking in as much. Looking forward to starting the CSS section tomorrow!
 
@@ -89,7 +100,7 @@
 
 ### Day 2: December 19, 2019
 
-**Today's Progress**: Continued reading Chapter 1 - Introduction to HTML and CSS. Finished the HTML section and read Structuring an HTML Document. Completed the first two exercises and watched the exercise screencasts. Carried on using VSCode to experiment with all the code snippets. Uploaded those snippets again to GitHub, along with the two exercises. Set up a website using GitHub Pages. Created a branch of my main code repository so I could publish my completed exercises. Learnt how to create a pull request and successfully merged my changes.
+**Today's Progress:** Continued reading Chapter 1 - Introduction to HTML and CSS. Finished the HTML section and read Structuring an HTML Document. Completed the first two exercises and watched the exercise screencasts. Carried on using VSCode to experiment with all the code snippets. Uploaded those snippets again to GitHub, along with the two exercises. Set up a website using GitHub Pages. Created a branch of my main code repository so I could publish my completed exercises. Learnt how to create a pull request and successfully merged my changes.
 
 **Thoughts:** A very productive day! Learnt a lot about the different metadata you can include in the head of an HTML document. Was good to work through my first exercises instead of just playing with small code snippets. One code snippet was a small piece of JavaScript which I then successfully embedded inside an HTML document without any difficulty. Yay! And after a bit of trial-and-error I got my GitHub Pages site up and running. Took a little longer to work out how to publish the exercises from a different repository but got there in the end. Awesome feeling when everything was finally published and out there on the web! Double that feeling when everything looked great on my phone too!
 
@@ -100,7 +111,7 @@
 
 ### Day 1: December 18, 2019
 
-**Today's Progress**: Started reading Chapter 1 - Introduction to HTML and CSS. Finished the Overview and Introduction. Read about two-thirds of the HTML section. Used VSCode to experiment with all the code snippets. Uploaded these snippets to GitHub.
+**Today's Progress:** Started reading Chapter 1 - Introduction to HTML and CSS. Finished the Overview and Introduction. Read about two-thirds of the HTML section. Used VSCode to experiment with all the code snippets. Uploaded these snippets to GitHub.
 
 **Thoughts:** This was a really interesting introduction to HTML. I love the new content type categories in HTML5. So much clearer and useful than the block-level/inline distinction in previous versions of HTML.
 
@@ -108,7 +119,7 @@
 
 ### Day 0: December 17, 2019
 
-**Today's Progress**: Completed the Workshop Onboarding section. This included installing Chrome and VSCode, along with the "Open in Default Browser" extension. Took the Pre-Assessment Quiz and completed it with a score of 72%.
+**Today's Progress:** Completed the Workshop Onboarding section. This included installing Chrome and VSCode, along with the "Open in Default Browser" extension. Took the Pre-Assessment Quiz and completed it with a score of 72%.
 
 **Thoughts:** I've recently started coding. After exploring many different resources and ways of learning, I've decided to work through The HTML and CSS Workshop from Packt. I was pleasantly surprised to get such a high score in the quiz, as I'm relatively new to modern HTML and CSS. However, it did highlight some areas I need to focus on – JavaScript, SASS, RWD and working with audio & video.
 
