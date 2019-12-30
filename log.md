@@ -6,7 +6,7 @@
 
 **Thoughts:** Travelling again today, but completed my goal of finishing this section off and completing the first exercise of this chapter. All straightforward so far, but starting the section on layout tomorrow which I've struggled with in the past and this will be the first time I've looked at the new flexbox and grid layouts. I've got a few hours layover while travelling so should be able to dedicate some time to this.
 
-**Link to work:**
+**Links to work:**
 
 1. [Files 02-04 to 02-07](https://github.com/phildc/html-css-workshop)
 2. [Exercise 02-01](https://github.com/phildc/html-css-workshop)
