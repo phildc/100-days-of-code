@@ -4,7 +4,7 @@
 
 **Today's Progress:** Carried on with Chapter 2 - Structure and Layout. Completed the Structural Elements section. Read about the article, aside, nav and div tags. Completed Exercise 2.01 and watched the Exercise 2.01 screencast.
 
-**Thoughts:** Travelling again today, but completed my goal of finishing this section off and completing the first exercise of this chapter. All straightforward so far, but starting the section on layout tomorrow which I've struggled with in the past and this will be the first time I've looked at the new flexbox and grid layouts. I've got a few hours layover while travelling so should be able to dedicate some time to this.
+**Thoughts:** Travelling again today, but completed my goal of finishing this section off and completing the first exercise of this chapter. All straightforward so far, and after an activity on wireframes tomorrow, I'll be starting the section on layout. I've struggled with layout in the past and this will be the first time I've looked at the new flexbox and grid layouts. I've got a few hours layover while travelling so I should be able to dedicate some time to this.
 
 **Links to work:**
 
