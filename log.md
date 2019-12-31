@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: December 29, 2019
+
+**Today's Progress:** Chapter 2 - Structure and Layout. Completed the Wireframes section. Completed Activity 2.01 and watched the Activity 2.01 screencast. Started the CSS Page Layouts section. Read the section on Float-Based Layouts.
+
+**Thoughts:** Nearly finished up travelling. Tiredness really hitting me hard and not feeling too good. Will be glad for new year to start when I can get settled again for a while. Slow but steady progress today. Tackling Flex and Grid layouts tomorrow.
+
+**Links to work:**
+
+1. [Files 02-08 to 02-14](https://github.com/phildc/html-css-workshop)
+2. [Activity 02-01](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 12: December 29, 2019
 
 **Today's Progress:** Carried on with Chapter 2 - Structure and Layout. Completed the Structural Elements section. Read about the article, aside, nav and div tags. Completed Exercise 2.01 and watched the Exercise 2.01 screencast.
