@@ -4,7 +4,7 @@
 
 **Today's Progress:** Chapter 2 - Structure and Layout. Completed the CSS Page Layouts section. Read the sections on Flex-Based and Grid-Based Layouts. Completed Activity 2.02 and watched the Activity 2.02 screencast.
 
-**Thoughts:** Should be settled back in tomorrow. Will start the Box Model section. The CSS Page Layouts section wasn't very deep. Will need to explore these areas in much more detail.
+**Thoughts:** Should be settled back in tomorrow. Will start the Box Model section. The CSS Page Layouts section wasn't very deep. Will need to explore these areas in much more detail - but later (as needed). Must stay focussed.
 
 **Links to work:**
 
