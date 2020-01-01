@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 13: December 29, 2019
+### Day 13: December 30, 2019
 
 **Today's Progress:** Chapter 2 - Structure and Layout. Completed the Wireframes section. Completed Activity 2.01 and watched the Activity 2.01 screencast. Started the CSS Page Layouts section. Read the section on Float-Based Layouts.
 
