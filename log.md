@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 3, 2020
+
+**Today's Progress:** Started Chapter 3 - Text and Typography. Read the Overview, Introduction and Text-Based Elements. Completed Exercise 3.01 and watched the Exercise 3.01 screencast. Updated my GitHub Pages site.
+
+**Thoughts:** 
+
+**Links to work:**
+
+1. [Files 03-01 to 03-12](https://github.com/phildc/html-css-workshop)
+2. [Exercise 03-01](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 16: January 2, 2020
 
-**Today's Progress:** Finished Chapter 2 - Structure and Layout. Completed Exercises 2.04 and 2.05 and watched the Exercise 2.04 and 2.05 screencasts. Completed Activity 2.02 and watched the Activity 2.02 screencast. Read the Summary and completed Quiz 2. Update my GitHub Pages site.
+**Today's Progress:** Finished Chapter 2 - Structure and Layout. Completed Exercises 2.04 and 2.05 and watched the Exercise 2.04 and 2.05 screencasts. Completed Activity 2.02 and watched the Activity 2.02 screencast. Read the Summary and completed Quiz 2. Updated my GitHub Pages site.
 
 **Thoughts:** Mostly coding today, not much reading. Learnt a lot while going through the exercises, and really pleased with how the activity went – was able to use what I'd learnt, then stretched myself a little to get the styling and layout to match the wireframe I'd created in Balsamiq. First time using Balsamiq – very intuitive and easy to use. Definitely qoing to use Balsamiq all the time now. Finished off with Quiz 2. Only got 80% but one question was on something that hadn't been included in the chapter, one was a little ambiguous, and one was a bit of a trick question! I read through the correct answers and I'm happy enough to continue - I honestly know the topics well enough, but I'll revisit this quiz later. Overall, really happy with how things are going. Can see a workflow starting to emerge - wireframe > structure > layout - and it's all pretty much "designing in the browser" which is the direction I'd like to go in.
 
