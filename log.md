@@ -4,7 +4,7 @@
 
 **Today's Progress:** Started Chapter 3 - Text and Typography. Read the Overview, Introduction and Text-Based Elements. Completed Exercise 3.01 and watched the Exercise 3.01 screencast. Updated my GitHub Pages site.
 
-**Thoughts:** 
+**Thoughts:** New chapter started today. Very straightforward so far. Peeked ahead and saw majority of this chapter is exercise-based, which is great. Learn so much more by putting everything into practice, rather than just reading. Obviously, you need to do the reading bits first, but by actually coding (some parts again, and again, and again...) I'm starting to remember everything - not just the "how" but the "why".
 
 **Links to work:**
 
