@@ -2,7 +2,7 @@
 
 ### Day 18: January 4, 2020
 
-**Today's Progress:** Continued with Chapter 3 - Text and Typography. Read Semantic Markup and started reading the Styling Text-Based Elements.
+**Today's Progress:** Continued with Chapter 3 - Text and Typography. Read Semantic Markup and started reading Styling Text-Based Elements.
 
 **Thoughts:** Not much covered today as I spent most of the time going through W3Schools exercises, and didn't get much sleep last night so my head not really in the game today. Fresh start tomorrow after a good night's sleep.
 
