@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 4, 2020
+
+**Today's Progress:** Continued with Chapter 3 - Text and Typography. Read Semantic Markup and started reading the Styling Text-Based Elements.
+
+**Thoughts:** Not much covered today as I spent most of the time going through W3Schools exercises, and didn't get much sleep last night so my head not really in the game today. Fresh start tomorrow after a good night's sleep.
+
+**Link to work:** [Files 03-13 to 03-17](https://github.com/phildc/html-css-workshop)
+
 ### Day 17: January 3, 2020
 
 **Today's Progress:** Started Chapter 3 - Text and Typography. Read the Overview, Introduction and Text-Based Elements. Completed Exercise 3.01 and watched the Exercise 3.01 screencast. Updated my GitHub Pages site.
