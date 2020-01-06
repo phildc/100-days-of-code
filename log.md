@@ -2,7 +2,7 @@
 
 ### Day 19: January 5, 2020
 
-**Today's Progress:** More on Chapter 3 - Text and Typography. Completed the section on Styling Text-Based Elements.
+**Today's Progress:** More on Chapter 3 - Text and Typography. Completed the (theory) section on Styling Text-Based Elements.
 
 **Thoughts:** Covered a bit more today. Still very straightforward material. Will be starting off tomorrow with Exercise 03-02 which will see me putting all the theory I've learnt over the last couple of days into practice.
 
