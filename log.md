@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 5, 2020
+
+**Today's Progress:** More on Chapter 3 - Text and Typography. Completed the section on Styling Text-Based Elements.
+
+**Thoughts:** Covered a bit more today. Still very straightforward material. Will be starting off tomorrow with Exercise 03-02 which will see me putting all the theory I've learnt over the last couple of days into practice.
+
+**Link to work:** [Files 03-18 to 03-28](https://github.com/phildc/html-css-workshop)
+
 ### Day 18: January 4, 2020
 
 **Today's Progress:** Continued with Chapter 3 - Text and Typography. Read Semantic Markup and started reading Styling Text-Based Elements.
