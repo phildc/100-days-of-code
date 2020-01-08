@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 6, 2020
+
+**Today's Progress:** Still on Chapter 3 - Text and Typography. Finished the Styling Text-Based Elements section by completing Exercise 3.02. Watched the Exercise 3.02 screencast.
+
+**Thoughts:** Got very distracted today. Tried out a couple of different resources – one too basic and a bit rubbish to be honest. The other was very advanced and ... "opinionated". Also got distracted by social media. Wasn't happy. Wanted to take a break, but wouldn't have enjoyed it knowing I needed to get back on track. So, jumped back into the book, found my groove again. Can end the day happy and looking forward to continuing tomorrow.
+
+**Link to work:** [Exercise 03-02](https://github.com/phildc/html-css-workshop)
+
 ### Day 19: January 5, 2020
 
 **Today's Progress:** More on Chapter 3 - Text and Typography. Completed the (theory) section on Styling Text-Based Elements.
@@ -26,7 +34,7 @@
 
 1. [Files 03-01 to 03-12](https://github.com/phildc/html-css-workshop)
 2. [Exercise 03-01](https://github.com/phildc/html-css-workshop)
-2. [My GitHub Pages site](https://phildc.github.io/)
+3. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 16: January 2, 2020
 
@@ -38,8 +46,7 @@
 
 1. [Exercises 02-04 and 02-05](https://github.com/phildc/html-css-workshop)
 2. [Activity 02-02](https://github.com/phildc/html-css-workshop)
-2. [My GitHub Pages site](https://phildc.github.io/)
-
+3. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 15: January 1, 2020
 
