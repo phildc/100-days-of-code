@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 7, 2020
+
+**Today's Progress:** Chapter 3 - Text and Typography. Completing Exercises 3.03 and 3.04. Watched the Exercise 3.03 and Exercise 3.04 screencasts.
+
+**Thoughts:** Worked longer, and ended up running out of time for logging my progress & checking-in on Twitter. So doing a double-update today. Enjoying the exercises, going through each component of the page one step at a time. Tomorrow will be finishing the last component off and putting the final page all together.
+
+**Links to work:**
+
+1. [Exercises 03-03 and 03-04](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 20: January 6, 2020
 
 **Today's Progress:** Still on Chapter 3 - Text and Typography. Finished the Styling Text-Based Elements section by completing Exercise 3.02. Watched the Exercise 3.02 screencast.
