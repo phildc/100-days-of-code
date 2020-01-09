@@ -16,7 +16,7 @@
 
 **Today's Progress:** Chapter 3 - Text and Typography. Completed Exercises 3.03 and 3.04. Watched the Exercise 3.03 and Exercise 3.04 screencasts.
 
-**Thoughts:** Worked longer and ended up running out of time for logging my progress & checking-in on Twitter. So doing a double-update today. Enjoying the exercises, going through each component of the page one step at a time. Tomorrow will be finishing the last component off and putting the final page all together.
+**Thoughts:** Worked too long and ended up running out of time for logging my progress & checking-in on Twitter. So doing a double-update today. Enjoying the exercises, going through each component of the page one step at a time. Tomorrow will be finishing the last component off and putting the final page all together.
 
 **Links to work:**
 
