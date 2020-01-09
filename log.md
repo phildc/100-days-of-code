@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 8, 2020
+
+**Today's Progress:** Chapter 3 - Text and Typography. Completed Exercises 3.05 and 3.06. Watched the Exercise 3.05 and Exercise 3.06 screencasts.
+
+**Thoughts:** Worked late into the night getting the product cards just right, and then making sure everything in the final page matched the wireframes and screenshots from the book. Took quite a bit of tweaking as there were a few things missing in the instructions and the screencasts. Not that it bothered me... I enjoyed fixing the code and got a real buzz out of getting it to work in the end. Very proud of the work I've done. Certainly the most complicated and well-designed page I've ever put together. Three weeks in and I'm really starting to see some progress. This was especially welcome as the day or so before didn't go too well. Putting those days behind me, and on the up now.
+
+**Links to work:**
+
+1. [Exercises 03-05 and 03-06](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
+
 ### Day 21: January 7, 2020
 
 **Today's Progress:** Chapter 3 - Text and Typography. Completed Exercises 3.03 and 3.04. Watched the Exercise 3.03 and Exercise 3.04 screencasts.
