@@ -4,7 +4,7 @@
 
 **Today's Progress:** Started Chapter 4 - Forms. Read the Overview and the Introduction. Started reading the section on Form Elements.
 
-**Thoughts:** Back to the book "proper". Started Chapter 4 on Forms. Not the most interesting topic for some people, but I really like all the various form elements that modern browsers natively support, rather than relying on JS. Also flicked ahead and love the way the chapter deals with styling the forms too. It was good to focus on the exercises and activity over the last few days, but it's a nice change of pace again to be going steady again, learning about new elements one by one.
+**Thoughts:** Back to the book "proper". Started Chapter 4 on Forms. Not the most interesting topic for some people, but I really like all the various form elements that modern browsers natively support, rather than relying on JS. Also flicked ahead and love the way the chapter deals with styling the forms too. It was good to focus on the exercises and activity over the last few days, but it's a nice change of pace to be going steady again, learning about new elements one by one. Also found some new learning resources that I've downloaded and put to one-side for either casually looking through on a break or for committing to after I've finished this book. Starting to get a bit more disciplined when it comes to focus!
 
 **Links to work:**
 
