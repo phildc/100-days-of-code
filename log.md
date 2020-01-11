@@ -1,16 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 23: January 9, 2020
+### Day 24: January 10, 2020
 
-**Today's Progress:** Completed Chapter 3 - Text and Typography. Completed Activity 3.01 and watched the Activity 3.01 screencast. Read the Summary. Completed Quiz 3.
+**Today's Progress:** Started Chapter 4 - Forms. Read the Overview and the Introduction. Started reading the section on Form Elements.
 
-**Thoughts:** Spent a lot of time on this activity. Using the supplied example article was easy enough, but the book asked the reader to choose an article from a recent copy of a newspaper. You then had to recreate it using semantic markup and CSS to get the layout to match the original as closely as possible. This was really tricky. Had to use W3Schools to look up how to work with multiple columns. Also had to tweak the CSS again and again to try and get it just right. My final version is very static (because the layout is supposed to match the printed original). I would have approached it differently if doing a more natural, fluid web layout. Made me look forward to the chapter on responsive web design. Finished the day off with Quiz 3. I got 93% this time round - knew the answer to the one I got "wrong", but didn't understand the way it was described in the set of answers we were given, so very happy I seem to have taken in all the new material in this chapter.
+**Thoughts:** Back to the book "proper". Started Chapter 4 on Forms. Not the most interesting topic for some people, but I really like all the various form elements that modern browsers natively support, rather than relying on JS. Also flicked ahead and love the way the chapter deals with styling the forms too. It was good to focus on the exercises and activity over the last few days, but it's a nice change of pace again to be going steady again, learning about new elements one by one.
 
 **Links to work:**
 
 1. [Activity 03-01 (both Supplied and Custom](https://github.com/phildc/html-css-workshop)
 2. [My GitHub Pages site](https://phildc.github.io/)
 
+
+
+### Day 23: January 9, 2020
+
+**Today's Progress:** Completed Chapter 3 - Text and Typography. Completed Activity 3.01 and watched the Activity 3.01 screencast. Read the Summary. Completed Quiz 3.
+
+**Thoughts:** Spent a lot of time on this activity. Using the supplied example article was easy enough, but the book asked the reader to choose an article from a recent copy of a newspaper. You then had to recreate it using semantic markup and CSS to get the layout to match the original as closely as possible. This was really tricky. Had to use W3Schools to look up how to work with multiple columns. Also had to tweak the CSS again and again to try and get it just right. My final version is very static (because the layout is supposed to match the printed original). I would have approached it differently if doing a more natural, fluid web layout. Made me look forward to the chapter on responsive web design. Finished the day off with Quiz 3. I got 93% this time round - knew the answer to the one I got "wrong", but didn't understand the way it was described in the set of answers we were given, so very happy I seem to have taken in all the new material in this chapter.
+
+**Link to work:** [Exercises 04-01 to 04-07](https://github.com/phildc/html-css-workshop)
 
 ### Day 22: January 8, 2020
 
