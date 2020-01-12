@@ -4,12 +4,12 @@
 
 **Today's Progress:** Continued with Chapter 4 - Forms. Completed the section on Form Elements. Completed Exercise 4.01 and watched the Exercise 4.01 screencast. Updated my GitHub Pages site.
 
-**Thoughts:** Carried on working with forms. Now covered all the form elements and will start working on styling them tomorrow. Helped someone on Twitter today with a JS question. Used my Jon Duckett book to help with my answer. Forgot how great his books are. So quickly looked up what he had to say on forms in his HTML & CSS book. Definitely going to be worth going through his books again. Might do this straight after finishing this book instead of moving on to some others on my reading list. Note: nothing wrong with my current book, just maybe need to consolidate my learning, always good to hear the same topics explained in a different "voice", and always learn something new that was previously left out or skirted over. And it help combats imposter syndrome when you spend 95% of your time nodding in agreement, and 5% going "Aha!".
+**Thoughts:** Carried on working with forms. Now covered all the form elements and will start working on styling them tomorrow. Helped someone on Twitter today with a JS question. Used my Jon Duckett book to help with my answer. Forgot how great his books are. So quickly looked up what he had to say on forms in his HTML & CSS book. Definitely going to be worth going through his books again. Might do this straight after finishing this book instead of moving on to some others on my reading list. Note: nothing wrong with my current book, just maybe need to consolidate my learning. It's always good to hear the same topics explained in a different "voice" and I always learn something new that was previously left out or skirted over. Plus it helps combat imposter syndrome when you spend 95% of your time nodding in agreement, and 5% going "Aha!". Might make my progress a little slower, but my goal is to master the topics, not just check a box and move on with very little understanding. That's also why I type out every single bit of code - never just reading alone, never copy & paste, and very rarely use auto-complete (unless it's really basic code that I know off the top of my head). Makes my typing faster and builds up my muscle-memory too!
 
 **Links to work:**
 
-1. [Exercises 04-08 to 04-12](https://github.com/phildc/html-css-workshop)
-2. [Activity 04-01](https://github.com/phildc/html-css-workshop)
+1. [Files 04-08 to 04-12](https://github.com/phildc/html-css-workshop)
+2. [Exercise 04-01](https://github.com/phildc/html-css-workshop)
 3. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 24: January 10, 2020
@@ -18,7 +18,7 @@
 
 **Thoughts:** Back to the book "proper". Started Chapter 4 on Forms. Not the most interesting topic for some people, but I really like all the various form elements that modern browsers natively support, rather than relying on JS. Also flicked ahead and love the way the chapter deals with styling the forms too. It was good to focus on the exercises and activity over the last few days, but it's a nice change of pace to be going steady again, learning about new elements one by one. Also found some new learning resources that I've downloaded and put to one-side for either casually looking through on a break or for committing to after I've finished this book. Starting to get a bit more disciplined when it comes to focus!
 
-**Link to work:** [Exercises 04-01 to 04-07](https://github.com/phildc/html-css-workshop)
+**Link to work:** [Files 04-01 to 04-07](https://github.com/phildc/html-css-workshop)
 
 ### Day 23: January 9, 2020
 
