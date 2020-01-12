@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 11, 2020
+
+**Today's Progress:** Continued with Chapter 4 - Forms. Completed the section on Form Elements. Completed Exercise 4.01 and watched the Exercise 4.01 screencast. Updated my GitHub Pages site.
+
+**Thoughts:** Carried on with working with forms. Now covered all the form elements and will start working on styling them tomorrow. Helped someone on Twitter today with a JS question. Used my Jon Duckett book to help with my answer. Forgot how great his books are. So quickly looked up what he had to say on forms in his HTML & CSS book. Definitely going to be worth going through this book again. Might do this straight after finishing this book instead of moving on to some others on my reading list. Note: nothing wrong with the current book, just maybe need to consolidate my learning, always good to hear the same topics explained in a different "voice", and always learn something new that was previously left out or skirted over. And it help combats imposter syndrome when you spend 95% of your time nodding in agreement, and 5% going "Aha!".
+
+**Links to work:**
+
+1. [Exercises 04-08 to 04-12](https://github.com/phildc/html-css-workshop)
+2. [Activity 04-01](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 24: January 10, 2020
 
 **Today's Progress:** Started Chapter 4 - Forms. Read the Overview and the Introduction. Started reading the section on Form Elements.
