@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 12, 2020
+
+**Today's Progress:** Continued with Chapter 4 - Forms. Working through the section on Styling Form Elements. Completed Exercise 4.02 and watched the Exercise 4.02 screencast. Updated my GitHub Pages site.
+
+**Thoughts:** Forms take a lot of CSS styling to start making them look good (and improve their usability), but really worth it. Made a simple syntax error in the exercise code, which held me up but also made me dig a little futher into how relative and absolute positioning work. Also got diverted by looking at how to use :focus in combination with :valid so form could offer feedback on a field-by-field basis rather than evaluating the whole form at a time. Noticed that the supplied code for this exercise was quite different to that in the book, so will build that version too. Must check all the other supplied code to see if there's any other different code that could be worth trying out and experimenting with. 
+
+**Links to work:**
+
+1. [Files 04-13 to 04-15](https://github.com/phildc/html-css-workshop)
+2. [Exercise 04-02](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 25: January 11, 2020
 
 **Today's Progress:** Continued with Chapter 4 - Forms. Completed the section on Form Elements. Completed Exercise 4.01 and watched the Exercise 4.01 screencast. Updated my GitHub Pages site.
