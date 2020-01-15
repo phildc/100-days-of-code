@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 13, 2020
+
+**Today's Progress:** Continued with Chapter 4 - Forms. Completed Exercises 4.02 and 4.03. Watched the Exercise 4.02 and 4.03 screencasts. Updated my GitHub Pages site.
+
+**Thoughts:** Built some really good-looking forms today. Very pleased with my progress - but styling those forms is a bit of a slog with so many components to work on. Got a little diverted with distractions once again. Really need to master controlling the urge to look and play around with other resources while I'm working on something.
+
+**Links to work:**
+
+1. [Exercises 04-03 and 04-04](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 26: January 12, 2020
 
 **Today's Progress:** Continued with Chapter 4 - Forms. Working through the section on Styling Form Elements. Completed Exercise 4.02 and watched the Exercise 4.02 screencast. Updated my GitHub Pages site.
