@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29: January 15, 2020
+
+**Today's Progress:** Started Chapter 5 - Themes, Colors, and Polish. Read the Overview and the Introduction. Started reading the section on "The Markup".
+
+**Thoughts:** Made a very gentle start to Chapter 5. Thought I deserved a light day after working hard the last few days on forms. Also gave me a chance to enjoy catching up with a few #100DaysOfCode tweets and Twitter friends. Such a good community feel on there. And I have to admit that on more than one occasion, it's the accountability factor that keeps me going some days and keeps me focused & on-track.
+
+**Link to work:** [Files 05-01 and 05-02](https://github.com/phildc/html-css-workshop)
+
 ### Day 28: January 14, 2020
 
 **Today's Progress:** Completed Chapter 4 - Forms. Completed Activity 4.01 and watched the Activity 4.01 screencast. Read the Summary. Completed Quiz 4. Updated my GitHub Pages site.
