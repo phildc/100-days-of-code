@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 14, 2020
+
+**Today's Progress:** Completed Chapter 4 - Forms. Completed Activity 4.01 and watched the Activity 4.01 screencast. Read the Summary. Completed Quiz 4. Updated my GitHub Pages site.
+
+**Thoughts:** Yay! Chapter 4 completed. This was a tough chapter to go through, but totally worth it. Learnt lots about forms, especially how to style them. Picked up some really good info on working with in-built browser verification, and some great tactics for approaching how to work with form layout. But must admit, happy to move onto another topic now. Got 2 questions wrong on the quiz - but again, down to confusing or ambiguous answers, so no biggie.
+
+**Links to work:**
+
+1. [Activity 04-01](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
+
 ### Day 27: January 13, 2020
 
 **Today's Progress:** Continued with Chapter 4 - Forms. Completed Exercises 4.02 and 4.03. Watched the Exercise 4.02 and 4.03 screencasts. Updated my GitHub Pages site.
