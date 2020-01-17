@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 30: January 16, 2020
+
+**Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on The Markup. Completed the section on Inverting Colors. Completed the section on New HTML Elements in the Theme. Completed the section on New CSS Background Properties.
+
+**Thoughts:** Made steady progress to Chapter 5. The supplied WordPress HTML code is very complex. A lot of convoluted class names. If I'm going to work with WordPress in the future, I'm either going to have a find a way to produce some cleaner, less messier code, or I'm going to have spend a very long time getting my head round WordPress.
+
+**Link to work:** [Files 05-03 and 05-12](https://github.com/phildc/html-css-workshop)
+
 ### Day 29: January 15, 2020
 
-**Today's Progress:** Started Chapter 5 - Themes, Colors, and Polish. Read the Overview and the Introduction. Started reading the section on "The Markup".
+**Today's Progress:** Started Chapter 5 - Themes, Colors, and Polish. Read the Overview and the Introduction. Started reading the section on The Markup.
 
 **Thoughts:** Made a very gentle start to Chapter 5. Thought I deserved a light day after working hard the last few days on forms. Also gave me a chance to enjoy catching up with a few #100DaysOfCode tweets and Twitter friends. Such a good community feel on there. And I have to admit that on more than one occasion, it's the accountability factor that keeps me going some days and keeps me focused & on-track.
 
