@@ -4,7 +4,7 @@
 
 **Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on The Markup. Completed the section on Inverting Colors. Completed the section on New HTML Elements in the Theme. Completed the section on New CSS Background Properties.
 
-**Thoughts:** Made steady progress to Chapter 5. The supplied WordPress HTML code is very complex. A lot of convoluted class names. If I'm going to work with WordPress in the future, I'm either going to have a find a way to produce some cleaner, less messier code, or I'm going to have spend a very long time getting my head round WordPress.
+**Thoughts:** Made steady progress with Chapter 5. The supplied WordPress HTML code is very complex. A lot of convoluted class names. If I'm going to work with WordPress in the future, I'm either going to have a find a way to produce some cleaner, less messier code, or I'm going to have spend a very long time getting my head round WordPress.
 
 **Link to work:** [Files 05-03 and 05-12](https://github.com/phildc/html-css-workshop)
 
