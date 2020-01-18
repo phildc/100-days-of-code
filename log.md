@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 31: January 17, 2020
+
+**Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed Exercise 5.01. Watched the Exercise 5.01 screencast. Updated my GitHub Pages site.
+
+**Thoughts:** Turned out that altering the CSS code for the WordPress page wasn't as complicated as I'd imagined it would be. Once you get past the unfamiliar class names, and use the browser Developer Tools to identify specific elements, it was quite straightforward to alter the look and feel of the page. 
+
+**Link to work:** [Exercise 05-01](https://github.com/phildc/html-css-workshop)
+
 ### Day 30: January 16, 2020
 
 **Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on The Markup. Completed the section on Inverting Colors. Completed the section on New HTML Elements in the Theme. Completed the section on New CSS Background Properties.
