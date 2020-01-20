@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 33: January 19, 2020
+
+**Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on CSS Invert Filter. Completed Exercise 5.03. Watched the Exercise 5.03 screencast. Updated my GitHub Pages site.
+
+**Thoughts:** Quick and easy way to create a dark theme. No real tweaking with code, just a simplified version of the last two day's workflow.
+
+**Link to work:** [Exercise 05-03](https://github.com/phildc/html-css-workshop)
+
 ### Day 32: January 18, 2020
 
 **Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on Creating a Dark Theme with the HSL Function. Completed Exercise 5.02. Watched the Exercise 5.02 screencast. Updated my GitHub Pages site.
