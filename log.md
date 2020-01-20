@@ -6,7 +6,11 @@
 
 **Thoughts:** Quick and easy way to create a dark theme. No real tweaking with code, just a simplified version of the last two day's workflow.
 
-**Link to work:** [Exercise 05-03](https://github.com/phildc/html-css-workshop)
+**Links to work:**
+
+1. [File 05-13](https://github.com/phildc/html-css-workshop)
+2. [Exercise 05-03](https://github.com/phildc/html-css-workshop)
+3. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 32: January 18, 2020
 
@@ -14,7 +18,10 @@
 
 **Thoughts:** Very similar exercise to the previous one, except using HSL instead of hex values for colors. Getting quite used to this now. Certainly a lot easier than I first thought. Thinking of doing my own custom theme when I've finished the chapter.
 
-**Link to work:** [Exercise 05-02](https://github.com/phildc/html-css-workshop)
+**Links to work:**
+
+1. [Exercise 05-02](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 31: January 17, 2020
 
@@ -22,7 +29,10 @@
 
 **Thoughts:** Turned out that altering the CSS code for the WordPress page wasn't as complicated as I'd imagined it would be. Once you get past the unfamiliar class names, and use the browser Developer Tools to identify specific elements, it was quite straightforward to alter the look and feel of the page. 
 
-**Link to work:** [Exercise 05-01](https://github.com/phildc/html-css-workshop)
+**Links to work:**
+
+1. [Exercise 05-01](https://github.com/phildc/html-css-workshop)
+2. [My GitHub Pages site](https://phildc.github.io/)
 
 ### Day 30: January 16, 2020
 
