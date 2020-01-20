@@ -2,7 +2,7 @@
 
 ### Day 32: January 18, 2020
 
-**Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed Exercise 5.02. Watched the Exercise 5.02 screencast. Updated my GitHub Pages site.
+**Today's Progress:** Continued with Chapter 5 - Themes, Colors, and Polish. Completed the section on Creating a Dark Theme with the HSL Function. Completed Exercise 5.02. Watched the Exercise 5.02 screencast. Updated my GitHub Pages site.
 
 **Thoughts:** Very similar exercise to the previous one, except using HSL instead of hex values for colors. Getting quite used to this now. Certainly a lot easier than I first thought. Thinking of doing my own custom theme when I've finished the chapter.
 
